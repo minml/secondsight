@@ -1,0 +1,21 @@
+Title: Notes
+
+----
+
+Author: Christopher Boutillé
+
+----
+
+Email: christophermartin87@hotmail.com
+
+----
+
+Description: Kirby is awesome
+
+----
+
+Keywords: kirby, cms, kirbycms, php, filesystem
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://dsply.fr text: Christopher Boutillé)
